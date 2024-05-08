@@ -1,0 +1,27 @@
+{
+  "name": "@snskar125/rn-bottomsheet",
+  "version": "1.0.0",
+  "description": "Bottomsheet Component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snskar125/rn-bottomsheet.git"
+  },
+  "keywords": [
+    "bottomsheet",
+    "sheet",
+    "react-native",
+    "android",
+    "ios",
+    "drawer"
+  ],
+  "author": "snskar125",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snskar125/rn-bottomsheet/issues"
+  },
+  "homepage": "https://github.com/snskar125/rn-bottomsheet#readme"
+}
